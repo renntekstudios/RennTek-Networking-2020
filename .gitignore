@@ -58,3 +58,12 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/RennTekNetworking.Client/
+/RennTekNetworking.Server/
+/RennTekNetworking.Shared/
+/Unity Builds/
+/Public/RennTekNetworking Unity Client/Library/
+/Public/RennTekNetworking Unity Client/Packages/
+/Public/RennTekNetworking Unity Client/ProjectSettings/
+/Public/RennTekNetworking Unity Client/obj/
+/Public/RennTekNetworking Unity Client/Logs/
