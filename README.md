@@ -1,4 +1,4 @@
-[RennTek-Networking-2020](https://github.com/renntekstudios/RennTek-Networking-2020git)
+[RennTek-Networking-2020](https://github.com/renntekstudios/RennTek-Networking-2020-Client.git)
 =================
 
 A Networking system build server/client side of original renntek studios networking library. Complete revamp to 2020
@@ -16,4 +16,4 @@ Author
 + [Instagram](https://www.instagram.com/renntekstudioslimited/)
 + [Github](https://github.com/renntekstudios)
 
-![Console Sample](Public/Screenshots/console_sample.PNG)
+![Console Sample](Screenshots/console_sample.PNG)

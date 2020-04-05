@@ -1327,6 +1327,7 @@ MonoBehaviour:
   m_ServerPort: 4435
   m_PlayerPrefab: {fileID: 5713933348574603515, guid: a3e29cff886f0314d9e600c7b7728115,
     type: 3}
+  m_EnemyMovementSpeed: 0.2
 --- !u!1 &656387024
 GameObject:
   m_ObjectHideFlags: 0
